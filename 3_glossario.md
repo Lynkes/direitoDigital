@@ -27,3 +27,19 @@ Sanção aplicada como punição ou como reparação por uma ação julgada repr
 
 ### Regulamentação
 Conjunto de normas e disposições.
+
+### Tarefa-05
+#Direito à privacidade
+  é o direito a exclusão do conhecimento alheio em relação a o que só diz respeito a própria pessoa.
+#Direito de imagem e honra
+  exposição ou ultilizção da imagem de alguém sem permissão, caso o uso indevido atinja sua honra, boa-fama, respeito ou  com finalidade comercial.
+#Direito anonimato
+  É vedado o anonimato, salvo em casos de denúncias e ouvidorias de acordo com lei infraconstitucional.
+#Direito à informação
+  Prevê como direito basico do consumidor o btenção a informação adequada sobre produtos e serviços.
+#Direito ao sigilo
+  Se refere aos a fatos especificos que não convem a serem divulgados seja por razões pessoais, profissionais ou comerciais.
+#Direito de igualdade
+  O princípio de pressupor que pessoas colocadas em situações diferentes sejam tratadas de forma desigual.
+#Direito à segurança
+  direito basico de proteção a sua vida, saude e segurançaa contra riscos provocados por práticas no fornecimento de serviçõs ou produtos siniderados perigosos ou nocivos.
